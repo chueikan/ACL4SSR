@@ -14,7 +14,10 @@ DOMAIN-SUFFIX,wechatpay.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weixinsxy.com
+
+# IPs
 IP-CIDR,43.129.255.126/32,no-resolve
+IP-CIDR,43.154.240.170/32,no-resolve
 IP-CIDR,43.154.252.90/32,no-resolve
 IP-CIDR,43.154.252.134/32,no-resolve
 IP-CIDR,43.155.124.214/32,no-resolve

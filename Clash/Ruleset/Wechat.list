@@ -44,6 +44,7 @@ IP-CIDR,101.32.118.25/32,no-resolve
 IP-CIDR,101.32.133.16/32,no-resolve
 IP-CIDR,101.32.133.53/32,no-resolve
 IP-CIDR,101.32.133.209/32,no-resolve
+IP-CIDR,101.32.139.114/32,no-resolve
 IP-CIDR,101.32.139.236/32,no-resolve
 IP-CIDR,101.32.139.238/32,no-resolve
 IP-CIDR,101.91.34.241/32,no-resolve
